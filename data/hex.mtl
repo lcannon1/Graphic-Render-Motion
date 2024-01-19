@@ -1,0 +1,3 @@
+newmtl hex
+Kd 1 1 1
+map_Kd rocks-color.ppm

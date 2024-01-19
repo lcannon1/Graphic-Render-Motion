@@ -1,0 +1,9 @@
+newmtl sphere
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 256
+map_Ka -imfchan b paving-props.ppm
+map_Kd paving-color.ppm
+map_Ks -imfchan g paving-props.ppm
+map_Ns -imfchan r paving-props.ppm
